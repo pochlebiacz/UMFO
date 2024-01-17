@@ -1,0 +1,4 @@
+ultralytics
+Pillow
+wandb
+os
